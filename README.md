@@ -8,14 +8,14 @@ problems and algorithms I tend not to tackle in everyday work.
 Currently this repository only contains the first few Java problems, but should expand over time to include all Java solutions
 as well as potentially other languages.
 
-##Requirements
+## Requirements
 
 These code samples assume at least the following versions
 
 - JavaSE 8
 - Gradle 6.x
 
-##Running the tests
+## Running the tests
 
 You can run all the tests for an exercise by entering the following in your
 terminal on Unix/Linux/Mac OS from the root of each project folder:
@@ -31,7 +31,7 @@ $ gradlew.bat test
 ```
 
 
-##Links
+## Links
 
 [My Exercism.io profile](https://exercism.io/profiles/philrogersuk)
 
