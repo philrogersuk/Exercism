@@ -8,6 +8,9 @@ problems and algorithms I tend not to tackle in everyday work.
 Currently this repository only contains the first few Java problems, but should expand over time to include all Java solutions
 as well as potentially other languages.
 
+In the spirit of simply writing the necessary code to pass the tests (YAGNI), these samples often omit validation of input.
+Clearly this should usually be included, but in the interests of focusing on the task given I've omitted it.
+
 ##Requirements
 
 These code samples assume at least the following versions
